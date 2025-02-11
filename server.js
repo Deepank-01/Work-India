@@ -1,7 +1,7 @@
-require("dotenv").config();
+
 const express = require("express");
 var cookieParser = require('cookie-parser')
-
+require("dotenv").config();
 const sequelize = require("./config/dbconnect");
 const User = require("./modal/User");
 const Train=require("./modal/Trains")
