@@ -5,8 +5,8 @@ Backend URL: (https://work-india-3.onrender.com)
 
 Api endpoints:  Postman :  https://www.postman.com/deepank01/workspace/work-india/collection/30131116-420f925f-2de6-4f75-9afc-3b7261b2d66f?action=share&creator=30131116
 
-
-
+Admin :  email: admin@gmail.com,
+         password:admin123
 <!-- Steps to run at local host  -->
 Step -1 
  <!-- Setup Environment Variables -->
